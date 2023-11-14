@@ -20,3 +20,9 @@ Password : ghani
 
 ## PHP Versi
 <img src="./phpversi.PNG">
+
+## Database
+<img src="./database">
+
+
+
