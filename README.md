@@ -1,11 +1,4 @@
 
-
-## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
-
-### Link Blog : <a href="https://www.codekop.com/products/source-code-aplikasi-rental-mobil-php-mysql-7.html">https://www.codekop.com/products/source-code-aplikasi-rental-mobil-php-mysql-7.html</a>
-
-### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
-
 ## Fitur-fitur pada Aplikasi pada kali ini :
 
 Login & Daftar Akun
