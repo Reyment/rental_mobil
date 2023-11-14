@@ -18,5 +18,5 @@ Password : admin
 Username : ghani
 Password : ghani
 
-## Screenshot
+## PHP Versi
 <img src="./phpversi.PNG">
