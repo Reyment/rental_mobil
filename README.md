@@ -3,7 +3,7 @@
 
 1. Masukkan sql ke database
 2. Pindahkan folder ke htdocs
-3. buka halaman 
+3. buka halaman http://localhost/rental_mobil/
 
 ## Untuk Login Admin :
 
