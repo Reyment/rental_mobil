@@ -19,4 +19,4 @@ Username : ghani
 Password : ghani
 
 ## Screenshot
-<img src="https://drive.google.com/drive/folders/1Y5CCX0cJRiADXcZ7CBKNmYwvnmP_BEDy">
+<img src="/phpversi.png">
