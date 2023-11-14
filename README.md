@@ -19,4 +19,4 @@ Username : ghani
 Password : ghani
 
 ## Screenshot
-<img src="/phpversi.png">
+<img src="./phpversi.PNG">
