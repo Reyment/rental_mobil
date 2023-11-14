@@ -22,7 +22,7 @@ Password : ghani
 <img src="./phpversi.PNG">
 
 ## Database
-<img src="./database.png">
+<img src="./database.PNG">
 
 
 
