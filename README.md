@@ -1,12 +1,9 @@
 
-## Fitur-fitur pada Aplikasi pada kali ini :
+## Cara menggunakan
 
-Login & Daftar Akun
-- Modul Mobil
-- Modul Booking
-- Modul Peminjaman dan Pengembalian 
-- Informasi Website dan Aplikasi
-- DLL
+1. Masukkan sql ke database
+2. Pindahkan folder ke htdocs
+3. buka halaman 
 
 ## Untuk Login Admin :
 
